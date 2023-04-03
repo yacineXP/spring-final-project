@@ -12,7 +12,8 @@
   <a href="#project-description">Project Description</a> |
   <a href="#tech-stack-and-libraries">Tech Stack and Libraries</a> |
   <a href="#how-it-works">How it Works</a> |
-  <a href="#code-examples">Code Examples</a> |
+  <a href="#features">Features</a> |
+  <a href="#project-structure">Project Structure</a> |
   <a href="#acknowledgements">Acknowledgements</a>
 </p>
 
@@ -63,7 +64,7 @@ When an order is placed through the UI or the API, a message is sent to the appr
 
 Overall, the Taco Cloud project demonstrates how to build a modern, cloud-native web application using Spring, reactive programming, and messaging.
 
-<div id="code-examples"></div>
+<div id="features"></div>
 
 ## 💡 Features
 **1. User authentication and authorization :** Users can create an account, log in, and log out. Different levels of access can be assigned to users, such as administrators, managers, and regular users.
@@ -78,6 +79,7 @@ Overall, the Taco Cloud project demonstrates how to build a modern, cloud-native
 
 **6. Analytics and reporting :** The application can collect and analyze data on user behavior, such as order history, preferences, and feedback. 
 
+<div id="project-structure"></div>
 
 ## 🏗️ Project Structure
 
